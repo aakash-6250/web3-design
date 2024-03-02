@@ -47,7 +47,7 @@ nav{
 }
 
 #logo{
-    background-image: url(blue\ red\ gold.png);
+    background-image: url(blue\ red\ gold.webp);
     background-size: cover;
     background-position: center;
     background-clip: text;
@@ -60,7 +60,7 @@ nav{
 
 
 #menu{
-    background-image: url(silver.jpg);
+    background-image: url(silver.webp);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -99,7 +99,7 @@ nav{
     text-wrap: wrap;
     padding-top: 15vh;
     font-weight: 600;
-    background-image: url(silver.jpg);
+    background-image: url(silver.webp);
     background-position: center;
     background-size: cover;
     background-clip: text;
@@ -107,7 +107,7 @@ nav{
 }
 
 #page-1-content>h1>span{
-    background-image: url(blue\ red\ gold.png);
+    background-image: url(blue\ red\ gold.webp);
     background-position: center;
     background-size: cover;
     background-clip: text;
@@ -157,7 +157,7 @@ nav{
 }
 
 #page-1-content>#inner-content>#left>#first,#second>p{
-    background-image: url(silver.jpg);
+    background-image: url(silver.webp);
     background-clip: text;
     color: transparent;
     background-size: cover;
@@ -213,7 +213,7 @@ nav{
 }
 
 #page-1-content>#inner-content>#right h1{
-    background-image: url(silver.jpg);
+    background-image: url(silver.webp);
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
@@ -292,7 +292,7 @@ nav{
 }
 
 #page-2-content>#inner-content>#left>p{
-    background-image: url(silver.jpg);
+    background-image: url(silver.webp);
     font-size: 1.4rem;
     background-size:cover;
     background-position: center;
@@ -321,7 +321,7 @@ nav{
 
 #page-2-content>#inner-content>#left>h3>i{
     color: transparent;
-    background-image: url(blue\ red\ gold.png);
+    background-image: url(blue\ red\ gold.webp);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -425,7 +425,7 @@ nav{
     width: 40%;
     padding: 5vh 5vw;
     color: transparent;
-    background-image: url(silver.jpg);
+    background-image: url(silver.webp);
     background-position: center;
     background-size: cover;
     -webkit-background-clip: text;
@@ -480,6 +480,8 @@ a{
     text-decoration: none;
     color: white;
 }
+
+
 
 
 
